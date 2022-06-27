@@ -1323,7 +1323,7 @@ function utility.rgba(r, g, b, alpha)
 end
 
 local themes = {
-    Anya = {
+    Default = {
         ["Accent"] = Color3.fromRGB(212, 175, 55),
         ["Window Background"] = Color3.fromRGB(30, 30, 30),
         ["Window Border"] = Color3.fromRGB(45, 45, 45),
